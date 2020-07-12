@@ -1,0 +1,21 @@
+{
+    "name": "后台管理系统接口文档",
+    "version": "1.0.0",
+    "description": "后台管理系统接口文档",
+    "title": "后台管理系统接口文档",
+    "url": "{BASE_URL}",
+    "header": {
+        "title": "文档说明",
+        "filename": "header.md"
+    },
+    "footer": {
+        "title": "附录",
+        "filename": "footer.md"
+    },
+    "order": ["common", "auth", "personal_center", "system"],
+    "template": {
+        "forceLanguage": "zh_cn",
+        "withCompare": true,
+        "withGenerator": false
+    }
+}
